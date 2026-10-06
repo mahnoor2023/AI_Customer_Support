@@ -17,7 +17,7 @@ def get_llm():
 
     # Groq is OpenAI-compatible, so use CrewAI's OpenAI provider with Groq's URL
     return LLM(
-        model="openai/llama-3.3-70b-versatile",
+        model="openai/openai/gpt-oss-120b",
         base_url="https://api.groq.com/openai/v1",
         api_key=api_key,
         temperature=0.2,
