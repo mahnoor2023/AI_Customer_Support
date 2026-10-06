@@ -15,13 +15,13 @@ def get_llm():
 
     api_key = st.secrets["GEMINI_API_KEY"]
 
-    # Set Gemini API key for CrewAI / LiteLLM
-    os.environ["GEMINI_API_KEY"] = api_key
+    # AQ. keys are Vertex AI (express mode) keys, so run in Vertex mode
     os.environ["GOOGLE_API_KEY"] = api_key
+    os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "true"
+    os.environ.pop("GEMINI_API_KEY", None)
 
     return LLM(
-        model="gemini/gemini-3.5-flash-lite",
-        api_key=api_key,
+        model="gemini/gemini-2.5-flash",
         temperature=0.2,
     )
 
