@@ -13,15 +13,13 @@ from escalation import escalate_to_human
 
 def get_llm():
 
-    api_key = st.secrets["GEMINI_API_KEY"]
+    api_key = st.secrets["GROQ_API_KEY"]
 
-    # AQ. keys are Vertex AI (express mode) keys, so run in Vertex mode
-    os.environ["GOOGLE_API_KEY"] = api_key
-    os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "true"
-    os.environ.pop("GEMINI_API_KEY", None)
-
+    # Groq is OpenAI-compatible, so use CrewAI's OpenAI provider with Groq's URL
     return LLM(
-        model="gemini/gemini-2.5-flash",
+        model="openai/llama-3.3-70b-versatile",
+        base_url="https://api.groq.com/openai/v1",
+        api_key=api_key,
         temperature=0.2,
     )
 
