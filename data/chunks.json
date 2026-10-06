@@ -1,0 +1,324 @@
+[
+  {
+    "id": "chunk_0000",
+    "text": "AURA RETAIL ENTERPRISES\nSTANDARD OPERATING PROCEDURES, CUSTOMER POLICIES & AGENT KNOWLEDGE\nBASE\nDocument ID: KB-SOP-2026-V4 Effective Date: October 1, 2025\nTarget Audience: Customer Support Agents & AI Language\nModels\nClassification: Official Operational Guidelines\n1. GENERAL CUSTOMER SERVICE FRAMEWORK\nAura Retail Enterprises is committed to providing consistent, clear, and efficient customer service. This Knowledge\nBase serves as the definitive reference document for customer support interactions, defining mandatory\noperational parameters, resolution frameworks, policy boundaries, and standard procedures. 1.1 Customer Communication Standards\nAll representative communications—whether human or automated AI systems—must observe the following\ncommunication rules:\nTone and Manner: Maintain a professional, polite, empathetic, and objective tone at all times.",
+    "metadata": {
+      "chunk_id": "chunk_0000",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 1,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 865,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0001",
+    "text": "systems—must observe the following\ncommunication rules:\nTone and Manner: Maintain a professional, polite, empathetic, and objective tone at all times.\nAvoid overly\ncasual language, jargon, or ambiguous phrasing. Verification Priority: Prior to disclosing order-specific details or processing account modifications, verify\nthe customer's identity using primary account identifiers (Order ID, Billing Email Address, or Registered Phone\nNumber). Resolution Proactiveness: Aim to resolve customer inquiries within the first point of contact whenever\npermissible within standard policy thresholds. 2. SHIPPING, DELIVERY & FULFILLMENT POLICIES\n2.1 Standard & Express Shipping Schedules\nAura Retail processes and dispatches orders Monday through Friday, excluding public holidays. Orders placed after\n2:00 PM EST will begin processing on the following business day.",
+    "metadata": {
+      "chunk_id": "chunk_0001",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 1,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 858,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0002",
+    "text": "spatches orders Monday through Friday, excluding public holidays. Orders placed after\n2:00 PM EST will begin processing on the following business day.\nShipping Method Estimated Delivery Time Cost Carrier Partners\nStandard Ground 3 – 5 Business Days $5.99 (Free over $75) USPS / FedEx Ground\nExpress Expedited 2 Business Days $14.99 FedEx 2Day / UPS 2nd Day\nOvernight Priority 1 Business Day $29.99 UPS Next Day Air\nInternational Standard 7 – 14 Business Days Calculated at Checkout DHL Express / GlobalPost\n2.2 Order Processing Timelines\nStandard processing requires 24 to 48 hours prior to carrier handover. During peak promotional periods or\nholidays, processing may extend up to 72 hours. Processing times are distinct from carrier transit times. IMPORTANT POLICY NOTE FOR SUPPORT AGENTS\nTracking numbers are automatically generated upon label creation, but shipping status updates may take up to 24\nhours to reflect on carrier tracking portals after initial pickup. Aura Retail Enterprises — Knowledge Base & Policy Document Page 1 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0002",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 1,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 1040,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0003",
+    "text": "2. SHIPPING, DELIVERY & FULFILLMENT POLICIES (CONTINUED)\n2.3 Lost, Delayed, or Stolen Shipments\nIf a customer reports a missing package, agents must apply the following resolution workflows based on carrier\nstatus:\nIn-Transit Delay: If a package has shown no tracking updates for 5 consecutive business days (domestic) or\n10 business days (international), initiate a carrier trace request. Marked Delivered but Not Received: Instruct the customer to verify household members, building\nreception, and immediate delivery areas. Customers must wait 48 hours from the timestamp of delivery before\ninitiating a formal inquiry, as carriers occasionally pre-scan packages. Confirmed Lost or Stolen: If an item is unlocated 48 hours post-delivery timestamp, or if the carrier\nconfirms non-delivery, open an internal claim.",
+    "metadata": {
+      "chunk_id": "chunk_0003",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 2,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 814,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0004",
+    "text": ". Confirmed Lost or Stolen: If an item is unlocated 48 hours post-delivery timestamp, or if the carrier\nconfirms non-delivery, open an internal claim.\nApproved claims qualify for a full replacement dispatch or\naccount refund up to a maximum item value of $500 per incident. 2.4 Address Modification Requests\nAddress adjustments can only be executed while an order status remains in \"Pending\" or \"Processing\". Once an\norder progresses to \"Shipped\" or \"In Transit\", address rerouting cannot be guaranteed. Rerouting via carrier\nintercept incurs a standard $15.00 fee charged to the customer. 3. RETURN, EXCHANGE & REFUND POLICIES\n3.1 Standard Return Eligibility\nAura Retail provides a 30-day return window starting from the documented date of carrier delivery. To qualify for a\nreturn, items must satisfy the following parameters:\nUnused, unworn, and unwashed condition with all original tags attached. Returned in original product packaging containing all included accessories, manuals, and collateral.",
+    "metadata": {
+      "chunk_id": "chunk_0004",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 2,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 1001,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0005",
+    "text": "washed condition with all original tags attached. Returned in original product packaging containing all included accessories, manuals, and collateral.\nAccompanied by a valid proof of purchase (Order ID or original purchase receipt). 3.2 Non-Returnable Items\nThe following categories are strictly excluded from standard return and refund eligibility unless defective upon\nreceipt:\nFinal Sale / Clearance merchandise marked as non-returnable. Perishable goods, personal care items, hygiene products, and undergarments. Digital download codes, software licenses, or redeemed gift cards. Customized or personalized print-on-demand items.",
+    "metadata": {
+      "chunk_id": "chunk_0005",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 2,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 633,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0006",
+    "text": "iene products, and undergarments. Digital download codes, software licenses, or redeemed gift cards. Customized or personalized print-on-demand items.\nReturn Reason Return Shipping Fee Refund Type Issued\nCustomer Preference / Remorse $6.99 (Deducted from refund) Original Payment Method\nDefective or Damaged Item Waived (Prepaid Label Provided) Full Refund or Replacement\nIncorrect Item Shipped Waived (Prepaid Label Provided) Full Refund or Correct Item\nGift Return (Without Purchaser) $6.99 (Deducted from balance) Store Credit / Gift Card\nAura Retail Enterprises — Knowledge Base & Policy Document Page 2 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0006",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 2,
+      "chunk_number_on_page": 4,
+      "document_type": "policy_and_faq",
+      "text_length": 612,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0007",
+    "text": "3. RETURN, EXCHANGE & REFUND POLICIES (CONTINUED)\n3.3 Refund Processing Framework\nUpon receipt of returned merchandise at our centralized distribution facility, inspection takes between 3 to 5\nbusiness days. Once inspected and approved, refunds are processed according to the following guidelines:\nCredit/Debit Card Refunds: Require 5 to 10 financial business days to reflect on customer bank statements\nfollowing authorization. Store Credit & Gift Cards: Issued within 24 hours of return approval and sent directly to the customer's\nregistered email address. Original Shipping Fees: Non-refundable for standard returns unless the return is due to corporate error or\ndefective merchandise.",
+    "metadata": {
+      "chunk_id": "chunk_0007",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 3,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 689,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0008",
+    "text": "tered email address. Original Shipping Fees: Non-refundable for standard returns unless the return is due to corporate error or\ndefective merchandise.\n3.4 Exchange Workflow\nCustomers desiring a different size, color, or model may elect an instant exchange or standard exchange:\nStandard Exchange: The replacement item is shipped upon receipt and verification of the original item at\nour facility. Instant Exchange: A temporary hold is placed on the customer's payment method for the cost of the new\nitem. The replacement item ships immediately. The hold is released once the returned merchandise is scanned\ninto carrier transit within 14 calendar days. 4. ORDER CANCELLATIONS & MODIFICATIONS\n4.1 Cancellation Window\nOrders may be canceled without charge within 60 minutes of submission. Due to automated fulfillment workflows,\ncancellation requests received after 60 minutes cannot be guaranteed, as orders quickly enter warehouse packing\nqueues.",
+    "metadata": {
+      "chunk_id": "chunk_0008",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 3,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 946,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0009",
+    "text": "tomated fulfillment workflows,\ncancellation requests received after 60 minutes cannot be guaranteed, as orders quickly enter warehouse packing\nqueues.\nCANCELLATION ESCALATION PROTOCOL\nIf an order has entered \"Packing\" or \"Manifested\" status, agents must advise the customer that the order will\ncomplete shipment, and direct them to use the automated returns portal upon delivery. 4.2 Item Additions & Quantity Changes\nOnce an order is successfully placed, items cannot be added to the existing transaction ID due to payment security\ncompliance (PCI-DSS). Customers must place a secondary order for additional items. Quantity reductions or\nsingle-item removals are permissible if executed prior to warehouse fulfillment. 5. PRODUCT WARRANTIES & REPAIRS\n5.1 Limited Manufacturer Warranty\nAll standard electronic and manufactured hardware products sold by Aura Retail carry a 1-Year Limited\nManufacturer Warranty covering defects in materials and workmanship starting from the original purchase date.",
+    "metadata": {
+      "chunk_id": "chunk_0009",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 3,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 997,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0010",
+    "text": "ld by Aura Retail carry a 1-Year Limited\nManufacturer Warranty covering defects in materials and workmanship starting from the original purchase date.\n5.2 Exclusions & Warranty Void Conditions\nThe standard warranty does not cover:\nAccidental damage, liquid spills, or dropped items. Normal wear and tear, cosmetic degradation, or battery capacity degradation over time. Unauthorized repairs, modifications, or third-party disassembly. Aura Retail Enterprises — Knowledge Base & Policy Document Page 3 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0010",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 3,
+      "chunk_number_on_page": 4,
+      "document_type": "policy_and_faq",
+      "text_length": 505,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0011",
+    "text": "6. FREQUENTLY ASKED QUESTIONS (FAQ) — ORDERS & ACCOUNT\nMANAGEMENT\nQ1: How can I check the current status of my order? Customers can check order status by providing their Order ID and billing zip code through our self-service web portal, or\nby asking our support agent. Statuses include: Pending, Processing, Shipped, Delivered, or On Hold. Q2: Why is my order marked as \"On Hold\"? An \"On Hold\" status usually indicates a payment verification review, an incomplete delivery address, or an item inventory\nstock check. Agents should verify account verification details before releasing the hold. Q3: Can I update my payment method after placing an order? No. For security purposes, payment methods cannot be altered post-checkout. If payment fails, the order will\nautomatically cancel within 2 hours, and a new order must be placed. Q4: What should I do if I received a wrong item?",
+    "metadata": {
+      "chunk_id": "chunk_0011",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 4,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 878,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0012",
+    "text": "If payment fails, the order will\nautomatically cancel within 2 hours, and a new order must be placed. Q4: What should I do if I received a wrong item?\nIf an incorrect item was received, please contact support with your Order ID and a photo of the received item and packing\nslip. A prepaid return label and replacement order will be dispatched immediately at no additional cost. Q5: Can I split shipment of my order to multiple addresses? A single order cannot be split across multiple delivery destinations. Separate orders must be placed for each distinct\nshipping address. Q6: How do I apply a discount promo code after an order has been submitted? Promo codes must be applied during checkout. However, support agents are authorized to retroactively apply valid\nsingle-use discount codes if requested within 24 hours of order placement. Q7: Why was my order canceled automatically? Automatic cancellations occur primarily due to failed payment authorizations, address validation failures, or unexpected\ninventory stockouts.",
+    "metadata": {
+      "chunk_id": "chunk_0012",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 4,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 1025,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0013",
+    "text": "tically? Automatic cancellations occur primarily due to failed payment authorizations, address validation failures, or unexpected\ninventory stockouts.\nRefund processing is initiated immediately upon cancellation. Q8: How do I create an account to view my purchase history? Customers can register an account at aura-retail.com/register using the same email address utilized during checkout to\nautomatically sync past guest orders. Q9: What happens if an item in my order is out of stock? If an item becomes unavailable, the remaining items in the order will ship as scheduled. The out-of-stock item will be\ncanceled, and a full refund for that specific item will be issued. Aura Retail Enterprises — Knowledge Base & Policy Document Page 4 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0013",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 4,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 743,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0014",
+    "text": "7. FREQUENTLY ASKED QUESTIONS (FAQ) — SHIPPING & DELIVERY\nQ10: Do you ship to P.O. Boxes or APO/FPO addresses? Yes, we ship to P.O. Boxes and military APO/FPO locations using USPS Standard Ground service exclusively. Express\nshipping options are unavailable for P.O. Box addresses. Q11: What occurs if I am not at home during a delivery attempt? Carriers will make up to three delivery attempts. If unsuccessful, the package will be held at a local carrier hub for 5\nbusiness days before being returned to sender. Q12: Are customs duties and taxes included for international shipments? For DDP (Delivered Duty Paid) countries selected at checkout, duties are calculated and prepaid. For DDU (Delivered\nDuty Unpaid) destinations, local customs duties and taxes must be settled by the customer upon arrival. Q13: My tracking shows \"Delivered,\" but I cannot locate my package. What should I do?",
+    "metadata": {
+      "chunk_id": "chunk_0014",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 5,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 891,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0015",
+    "text": "s duties and taxes must be settled by the customer upon arrival. Q13: My tracking shows \"Delivered,\" but I cannot locate my package. What should I do?\nCheck surrounding doors, garage areas, and neighbors. Wait 48 hours as delivery scans can occasionally precede physical\ndrop-off. If still missing after 48 hours, contact support to open a trace claim. Q14: How long does express delivery take if I order on Friday evening? Orders placed after 2:00 PM EST on Friday are processed on Monday morning. Express 2-day delivery placed Friday\nevening will typically arrive on Wednesday. Q15: Can I request a carrier hold for pickup? Yes. Once a tracking number is generated, customers can use FedEx Delivery Manager or UPS My Choice to request a\nlocal hold at an authorized pickup station. Q16: Why has my tracking status not updated in several days? Tracking pauses can occur during long-haul transit between sorting hubs. If tracking remains unupdated for more than 5\nconsecutive business days, support can initiate a carrier search.",
+    "metadata": {
+      "chunk_id": "chunk_0015",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 5,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 1028,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0016",
+    "text": "ong-haul transit between sorting hubs. If tracking remains unupdated for more than 5\nconsecutive business days, support can initiate a carrier search.\nQ17: What should I do if my shipment arrives visibly damaged? Document the damage by taking photos of the external packaging and damaged product prior to discarding materials. Submit the photos to customer support within 7 days of arrival. Aura Retail Enterprises — Knowledge Base & Policy Document Page 5 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0016",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 5,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 461,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0017",
+    "text": "8. FREQUENTLY ASKED QUESTIONS (FAQ) — RETURNS, REFUNDS &\nREPAIRS\nQ18: How do I generate a prepaid return shipping label? Visit our self-service returns page at aura-retail.com/returns, enter your Order ID and billing zip code, select the items\nbeing returned, and print the pre-addressed return shipping label. Q19: Can I return an online order to a physical store location? Yes. Items purchased online may be returned to any official Aura Retail store within 30 days, accompanied by order\nconfirmation documentation and a valid government ID. Q20: How long does it take for a refund to reflect on my bank account? Once our warehouse inspects the return (3-5 business days), refunds take an additional 5-10 business days depending on\nyour financial institution's processing times. Q21: Are return shipping fees covered for international returns?",
+    "metadata": {
+      "chunk_id": "chunk_0017",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 6,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 845,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0018",
+    "text": "tional 5-10 business days depending on\nyour financial institution's processing times. Q21: Are return shipping fees covered for international returns?\nInternational return shipping costs are the responsibility of the customer unless the return is due to a documented\nproduct defect or fulfillment error. Q22: What happens if I return an item after the 30-day return window? Returns received between 31 and 60 days from delivery are subject to a 15% restocking fee and issued as store credit only. Returns past 60 days are rejected and sent back to sender. Q23: How are bundled item returns processed? When returning an item purchased as part of a promotional bundle, all bundled items must be returned together to\nreceive a full refund. Partial bundle returns forfeit bundled discounts. Q24: What documentation is needed to file a warranty claim? Warranty claims require the original Order ID, serial number (if applicable), description of the defect, and clear\nphotographic or video evidence of the issue.",
+    "metadata": {
+      "chunk_id": "chunk_0018",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 6,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 1006,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0019",
+    "text": "claims require the original Order ID, serial number (if applicable), description of the defect, and clear\nphotographic or video evidence of the issue.\nQ25: Does a replacement item reset the 1-year warranty period? Replacement items inherit the remaining balance of the original 1-year product warranty or receive a 90-day warranty\nextension, whichever period is longer. Aura Retail Enterprises — Knowledge Base & Policy Document Page 6 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0019",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 6,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 440,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0020",
+    "text": "9. CUSTOMER SUPPORT ESCALATION MATRIX & ESCALATION PROTOCOLS\nAI Support Agents and Tier-1 Customer Support Representatives must follow standard escalation pathways when\nencountering non-standard customer inquiries or complex operational issues. Tier / Level Authorized Actions &\nFinancial Thresholds Escalation Criteria\nTier 1 Support / AI\nAgent\n• Issue prepaid return labels\n• Apply promo discounts up to\n$15\n• Cancel orders within 60 min\nwindow\n• Provide status & tracking\nupdates\nStandard customer queries, simple returns, address verification,\nand standard status inquiries. Tier 2 Specialist • Process refunds up to $250\n• Waive return shipping fees\n• Issue goodwill credits up to\n$50\n• Intercept packages in transit\nDamaged shipments, repeated delivery failures, system errors, and\npolicy exception requests.",
+    "metadata": {
+      "chunk_id": "chunk_0020",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 7,
+      "chunk_number_on_page": 1,
+      "document_type": "policy_and_faq",
+      "text_length": 814,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0021",
+    "text": "oodwill credits up to\n$50\n• Intercept packages in transit\nDamaged shipments, repeated delivery failures, system errors, and\npolicy exception requests.\nSupport\nSupervisor\n• Full refunds up to $1,000\n• Legal & chargeback\nescalation\n• Override core warranty terms\n• Account suspension\nmanagement\nThreatened legal action, unresolved high-value lost shipments,\nchargeback disputes, and severe complaints. 10. CUSTOMER DATA PROTECTION & COMPLIANCE DIRECTIVES\nSupport agents must adhere to strict security guidelines to ensure customer privacy compliance:\nPCI-DSS Compliance: Never request or record complete 16-digit credit card numbers, CVV codes, or online\nbanking passwords in chat logs or tickets. PII Handling: Customer addresses, emails, and phone numbers must only be accessed for legitimate\nfulfillment or verification purposes. Identity Verification: Before modifying order parameters, verify at least two matching data points (e.g.,\nOrder ID + Billing Zip Code).",
+    "metadata": {
+      "chunk_id": "chunk_0021",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 7,
+      "chunk_number_on_page": 2,
+      "document_type": "policy_and_faq",
+      "text_length": 966,
+      "total_chunks": 23
+    }
+  },
+  {
+    "id": "chunk_0022",
+    "text": "tion purposes. Identity Verification: Before modifying order parameters, verify at least two matching data points (e.g.,\nOrder ID + Billing Zip Code).\nDOCUMENT CONTROL STATEMENT\nThis document is maintained by the Aura Retail Operational Excellence Team. Revisions occur quarterly. Uncontrolled when printed or exported outside official repository. Aura Retail Enterprises — Knowledge Base & Policy Document Page 7 of 7",
+    "metadata": {
+      "chunk_id": "chunk_0022",
+      "source_file": "Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "source_path": "/content/Customer Service Knowledge Base & Agent Policy Guidelines.pdf",
+      "page_number": 7,
+      "chunk_number_on_page": 3,
+      "document_type": "policy_and_faq",
+      "text_length": 418,
+      "total_chunks": 23
+    }
+  }
+]
