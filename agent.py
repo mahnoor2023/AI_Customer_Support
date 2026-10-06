@@ -12,9 +12,12 @@ from escalation import escalate_to_human
 
 
 def get_llm():
+
     api_key = st.secrets["GEMINI_API_KEY"]
 
+    # Set Gemini API key for CrewAI / LiteLLM
     os.environ["GEMINI_API_KEY"] = api_key
+    os.environ["GOOGLE_API_KEY"] = api_key
 
     return LLM(
         model="gemini/gemini-3.5-flash-lite",
@@ -24,6 +27,7 @@ def get_llm():
 
 
 def create_support_agent():
+
     llm = get_llm()
 
     return Agent(
@@ -65,7 +69,9 @@ def create_support_task(
     customer_message,
     conversation_history
 ):
+
     return Task(
+
         description=f"""
 You are handling a customer support conversation.
 
@@ -90,7 +96,7 @@ Follow these rules carefully:
 4. Never invent company policies, product information,
    order information, delivery information, or other facts.
 
-5. Use the previous conversation to understand follow up
+5. Use the previous conversation to understand follow-up
    questions.
 
 6. If the customer explicitly asks to speak to a human,
@@ -110,7 +116,7 @@ Follow these rules carefully:
 
 11. Keep the response clear and reasonably concise.
 
-Return only the customer facing response.
+Return only the customer-facing response.
 """,
 
         expected_output=(
